@@ -1,7 +1,10 @@
 # Travel_Advisory_node JS and React and Rapid API 
 Travel Advisory using Node.js and react using rapid api for google maps https://rapidapi.com/apidojo/api/travel-advisor
 
+# 0) To view the Project Files 
+* Navigate to the Master Branch and Access the Files
 
+  
 # 1) Set up the Node.js backend:
 
 Initialize a new Node.js project using npm (Node Package Manager).
