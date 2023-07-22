@@ -29,3 +29,6 @@ https://nodejs.org/en/download
 
 # Youtube Video on Deployment of the Project Run
 https://youtu.be/uMDETT-Mgkg
+# Snippet
+![React-App](https://github.com/imrohitsampannavar45/Travel_Advisory_Asessement/assets/88710389/1bc1403c-4a78-410e-b9bb-160721b943d0)
+
